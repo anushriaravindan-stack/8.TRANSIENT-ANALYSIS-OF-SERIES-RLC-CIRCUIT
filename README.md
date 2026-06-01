@@ -19,20 +19,18 @@ The impedance of the circuit is the total opposition to the flow of current. For
 Compare the calculated values and measured values of voltage in both the cases.
 
 
-
 **CIRCUIT DIAGRAM:**
 
+<img width="545" height="270" alt="WhatsApp Image 2026-06-01 at 10 39 39 AM" src="https://github.com/user-attachments/assets/b10bd46a-c198-40e9-a04d-a65271c193f5" />
 
 
+**GRAPH:**
 
-**TABULATION:**
-
-
-**Calculation:**
-
+<img width="720" height="367" alt="WhatsApp Image 2026-06-01 at 10 39 22 AM" src="https://github.com/user-attachments/assets/15534d21-df7f-4f13-b678-fd4ac1e9c428" />
 
 
 **Marksplitup:**
+<img width="1600" height="932" alt="WhatsApp Image 2026-06-01 at 10 42 20 AM" src="https://github.com/user-attachments/assets/3b263d89-47c5-4b9b-8f0d-b903adcfb88b" />
 
 
 **RESULT:**
